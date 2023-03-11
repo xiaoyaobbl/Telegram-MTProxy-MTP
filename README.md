@@ -10,7 +10,7 @@ Telegram精选
 
 ## 5. [😍 AV剧情MV 😍](https://t.me/iamuziri) https://t.me/iamuziri
 
-## 6. [😘 白嫖社｜AV 😘](https://t.me/pantyhoselover) https://t.me/pantyhoselover
+## 6. [😘 白嫖社｜AV 😘](https://t.me/baipiaoshe06) (https://t.me/baipiaoshe06)
 
 ## 7. [😜 黑料社 😎](https://t.me/heiliaoshe1) https://t.me/heiliaoshe1
 
