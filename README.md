@@ -418,3 +418,117 @@ Telegram精选
 * iQZone： https: //t.me/iQ_Zone
 
 * 软件
+
+* 微软用户： https: //t.me/Microsofthelp
+
+* 捷径快捷方式：https://t.me/SiriShortcuts
+
+* 捷径社区：https://t.me/shortcuts_cn
+
+* 截图：https://t.me/joinchat/BGyWwD9ZNqE3pLbhXc-VgQ
+ 
+* Snipaste 讨论：https://t.me/joinchat/BGyWwEDqrqiwizDA6gt16g
+ 
+* 价格标签： https: //t.me/pricetagapp
+
+* App种草群：https://t.me/appfoundgroup
+
+* 版本控制： https: //t.me/nextnb
+
+* Chrome: https://t.me/ChromeCN
+
+* MWeb 及相关讨论：https://t.me/mwebapp
+
+* MOZE 官方群：https://t.me/mozeapp
+
+* 岁寒输入法交流：https://t.me/SuiHanIME
+
+* 超级应用程序： https: //t.me/hyperapp
+
+* 码头工人： https: //t.me/dockertutorial
+
+* 图钉：https: //t.me/PinTG
+
+* 奇点： https: //t.me/jidian
+
+* 雷神： https: //t.me/thorshu
+
+* 雷神 HTTP 嗅探器：https://t.me/thoranubis
+
+* Thor/HTTP/JSBox/捷径/Cydia交流群：https://t.me/yqc_666
+
+* Pythonista 3: https://t.me/Pythonista3jiaoliuqun
+
+* iTools： https: //t.me/toolinbox
+
+* X.cat: https://t.me/PcatApp
+
+草稿： https: //t.me/drafts4
+Aria2 中文交流群: https://t.me/Aria2_CN
+Lucis（优雅的第三方Tumblr 客户端）：https://t.me/LucisApp
+LyricsX： https: //t.me/LyricsXTestFlight
+PureWriter 的朋友： https: //t.me/purewriter/
+码农群英会：https://t.me/devmanman
+EOS： https: //t.me/EOSproject
+筛选器： https: //t.me/sifterapp
+IINA 中文: https://t.me/IINAUsersZH
+IINA： https: //t.me/IINAUsers
+RSSHub： https: //t.me/rsshub
+PPHub 官方群: https://t.me/joinchat/Jn89QxI2MWt9hgTLQQW2Gg
+Cuto壁纸：https://t.me/joinchat/BC6PtD89sEGgHKR28OtQVA
+UpperSoft - 讨论组: https://t.me/UpperSoftDiscuss
+Mac玩儿法茶馆：https://t.me/waerfa
+软件技术资源共享：https://t.me/SharedResourcesplus
+TelePlus 官方讨论组：https://t.me/TelePlus_Group
+MK 播放器：https://t.me/MKPlayerApp
+畅邮（Cymail）电子邮箱客户端：https://t.me/cyemail
+记账应用讨论：https://t.me/accountingapps
+Mixin 网络（XIN）：https://t.me/MixinCommunity
+52破解信息：https://t.me/wuaipojie
+Launch Center Pro 交流分享：https://t.me/lcpapp
+Reddigram： https: //t.me/reddigram
+Nicegram 聊天： https: //t.me/nicegramchat
+AdGuard 聊天 [EN]：https://t.me/adguard_en
+AdGuard [CN]: https://t.me/adguard_cn
+AdGuard【中文】：https ://t.me/AdGuard_chinese
+Gridea 群组: https://t.me/joinchat/IDY0ahRqb8NPodv95BNpBg
+办公工具群：https://t.me/joinchat/GdsEL0ejcWZ-T-koyW4Wug
+Excel学习群： https: //t.me/excellearner
+VShareCloud：https://t.me/VShareCloud
+MoonFM: https://t.me/joinchat/FLWvJhDhXGAQO5SGDg87nw
+Telegreat 中文支持区：https://t.me/TelegreatX
+Instagram：https ://t.me/joinchat/AAAAAFL_lXy0yPL754j5CQ
+PanDownload 交流群: https://t.me/joinchat/Lz9fSlOgUUyinc5N7Gv6tg
+APK、ROM 和工具：https://t.me/r3l3as3s
+dotPlayer 点播放大器：https://t.me/dotplayer
+预约APP： https: //t.me/angeliachat
+Elpass： https: //t.me/ElpassApp
+uTools： https: //t.me/u_tools
+Twitter 的 ttte： https: //t.me/ttteapp
+这里内测群：https://t.me/HereApp
+信鸽内部人士：https://t.me/pigeon_app
+VNoteX： https: //t.me/vnotex
+VVebo 官方群：https://t.me/vvebogroup
+VVeboX 非官方群：https://t.me/VVeboX_unofficial
+GBox 官方交流群: https://t.me/GBoxTG
+GBox官方： https: //t.me/GBoxOfficial
+Transno： https: //t.me/transnousergroup
+FastClip： https: //t.me/fastclipchat
+堆栈内部人员： https: //t.me/stack_app
+pyTelegramBotAPI：https://t.me/joinchat/Bn4ixj84FIZVkwhk2jag6A
+CC 来电扳截：https://t.me/ccblocker
+订阅 - 订阅跟踪器：https://t.me/app_subs
+时光软件：https://t.me/sgxxqg
+脚本交流群：https://t.me/Scriptable_JS
+QPomelo 应用程序：https://t.me/qpomelo_apps
+Hamibot： https: //t.me/HamibotChat
+反撤销聊天：https://t.me/AntiRevokeChat
+简悦 - SimpRead: https://t.me/simpreadgroup
+flomo 浮墨卡片笔记： https: //t.me/flomoapp
+佐伊： https: //t.me/ZOEAPP
+Mac & PC 平台上的视频播放器 (IINA、mpv、madVR、Infuse、Movist、VLC 等): https://t.me/VideoPlayerAndDisplay
+App Privacy Insights官方群：https://t.me/joinchat/66CSVhKAs3pmYTQ1
+彩盘: https://t.me/joinchat/nc7xna7GlBo5MjBl
+DEVONthink中文：https://t.me/DEVONthink
+Filebox 官方群: https://t.me/FileboxApp 
+
