@@ -32,17 +32,17 @@ Telegram精选
 群组 Group
 
 京豆
-* Faker： https: //t.me/jdscrip
-
-* 亚伦-lv : https://t.me/aaron_scriptsG
-
-* jdShareCode: https://t.me/jdShareCode
-
-* PKC皮卡车：https://t.me/jdscrip
-
-* 互助研究所：https://t.me/update_help
-
-* Leeco-雪花社：https://t.me/xuehuashe
+- Faker： [https: //t.me/jdscrip]()
+  
+- 亚伦-lv : https://t.me/aaron_scriptsG
+  
+- jdShareCode: https://t.me/jdShareCode
+  
+- PKC皮卡车：[https://t.me/jdscrip]()
+  
+- 互助研究所：https://t.me/update_help
+  
+- Leeco-雪花社：https://t.me/xuehuashe
 
 番薯
 * 搬运瓦工 (BandwagonHost): https://t.me/BandwagonHostUsers
