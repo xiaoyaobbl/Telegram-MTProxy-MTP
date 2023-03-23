@@ -970,331 +970,656 @@ Telegram精选
 * DEW 官方中文群：https://t.me/dew_cn
 
 * DEW官方英文群： https: //t.me/dew_en
-DEW日本语グループ：https://t.me/dew_jp
-DEW 공식한국어 그룹: https://t.me/dew_kr
-Python 数据社群，数据分析大数据相关知识交流：https://t.me/datapy
-TechCrunch 中文版讨论组：https://t.me/techcrunchcngroup
-内含段子：https://t.me/duanzige
-TeFuir自渡：https://t.me/TeFuirZIDu
-Dribbble 设计交流: https://t.me/dribbbletalk
-安卓广场： https: //t.me/AndroidPlaza
-[ZH/EN] 摄影：https://t.me/cnphotog
-加速吧小宝（koolshare merlin固件）：https://t.me/xbchat
-软路由综合交流群：https://t.me/Balancer66
-软路由交流群: https://t.me/ruanlu
-eSir 游乐场：https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA
-eSir Playground 固件 & 插件交流群: https://t.me/joinchat/JjxmyUrN3utQKXt_5LD54g
-机场联盟 - Linux&vps@SSpanel: http://t.me/supermarket666
-阿里云交流群：https://t.me/Balancer985
-微软件云 (Azure) 交流群：https://t.me/Balancer211
-谷歌云 (Gcp) 交流群：https://t.me/Balancer166
-博客搭建交流群：https://t.me/Balancer863
-Tasker中文交流群：https://t.me/taskercn
-简信用户群：https://t.me/mailtime
-Rime&iRime 交流群: https://t.me/joinchat/F2HuOQpBU2NjUrg8ybQMDg
-Vim 用户交流群：http://t.me/vimhub
-iOS越狱讨论群：https://t.me/iOS_Jailbreak
-iOS越狱交流群：https://t.me/iOS_jailbreaking
-越狱聊天：https://t.me/joinchat/AAAAAD161xTKVMuu-bOaxg
-电报哈斯组： https: //t.me/telehathgroup
-Vps 交流: https://t.me/talkvps
-自由世界之声：https://t.me/TetgramC
-今天我地唔倾身倾人生：https://t.me/telegrc
-Product Hunt 分享讨论：https://t.me/joinchat/CreGnBZN4DGqRb4HiBkm9g
-wikipedia-zh中文维基百科聊天室：https ://t.me/wikipedia_zh_n
-老维基百科-zh: https://t.me/wikipedia_zh
-维基百科-zh-帮助：https://t.me/wikipedia_zh_help
-维基百科-zh-游戏：https://t.me/wikipedia_zh_game
-wikipedia-zh-science&technology：https://t.me/wikipedia_zh_science_and_tech
-维基百科-zh-计算机科学：https://t.me/wikipedia_zh_cs
-wikipedia-zh-humanities&SoSci：https://t.me/wikipedia_zh_humanities
-wikipedia-zh-jurisprudence：https://t.me/wikipedia_zh_jurisprudence
-wikipedia-zh-entertainment&art: https://t.me/wikipedia_zh_entmt_and_art
-维基百科-zh-acg：https://t.me/wikipedia_zh_acg_n
-维基百科-zh-物理：https://t.me/wikipedia_zh_physics
-wikipedia-zh-BioMed：https://t.me/Wikipedia_zh_bio_and_med
-维基百科-zh-语言： https: //t.me/wikipedia_zh_lang
-维基百科-zh-翻译：https://t.me/wikipedia_zh_translation
-wikipedia-zh-food&drink：https://t.me/wikipedia_zh_food_and_drink
-维基百科-zh-体育：https://t.me/wikipedia_zh_sports
-wikipedia-zh-library&museum： https: //t.me/wikipedia_zh_lib
-wikipedia-zh-Geo&Transpt：https://t.me/wikipedia_zh_geo_and_transpt
-维基百科-zh-LGBT+： https: //t.me/wikipedia_zh_LGBT
-wikipedia-zh-appeal&meta: https://t.me/wikipedia_zh_appeal_n_meta
-维基百科-zh-DC: https://t.me/wikipedia_zh_DC
-wikipedia-zh-ingress：https://t.me/wikipedia_zh_ingress
-台大维基社：https://t.me/ntuwpc
-高雄维基人高雄维基媒体社区：https://t.me/wikikaohsiung
-维基学生会：https://t.me/wikipedia_zh_wsu
-边缘人小组｜边缘人小组Marginalized Persons' Club: https://t.me/marginalizedpersonsclub
-《维基人》读者交流群： https: //t.me/the_Wikipedian_group
-wikipedia-zh 巡逻：https://t.me/wikipedia_zh_patrol
-维基百科-zh-DYK： https: //t.me/wikipedia_zh_dyk
-zh 维基公告： https: //t.me/zhwiki_bulletin
-中文维基《求闻》-秋文中文维基百科：https://t.me/Qiuwen
-维基媒体-commons-zh：​​https://t.me/wikimedia_commons_zh
-wikibooks-zh: https://t.me/wikibooks_zh
-wikisource-zh: https://t.me/wikisource_zh
-wikiversity-zh： https: //t.me/wikiversity_zh
-wikinews-zh: https://t.me/wikinews_zh_n
-维基导游-zh: https://t.me/wikivoyage_zh
-维基百科-lzh: https://t.me/wikipedia_lzh
-lzh维基公告：https://t.me/lzhwiki_bulletin
-WamLzh: https://t.me/wamlzh
-cvn-zho：https://t.me/cvn_zho
-cvn-zh-sw： https: //t.me/cvn_zh_sw
-维基百科-mnc：https://t.me/wikipedia_mnc
-维基百科-yue: https://t.me/wikipedia_yue
-维基百科-cdo： https: //t.me/wikipedia_cdo
-cdo 维基公告：https://t.me/cdowiki_bulletin
-RetroShare： https: //t.me/cnretroshare
-MoeUnion: https://t.me/MoeUnion
-Vediotalk： https: //t.me/VedioTalkGroup
-利器👨🏻‍💻👩‍💻 🧤: https://t.me/fun_makers
-开发者中文圈：https://t.me/coderzh
-酷安闲聊群：https://t.me/coolapkxianliao
-酷安：https://t.me/cool_apk
-Licenses Group 合租美剧讨论薅羊毛：https://t.me/Licensess
-[合租] Netflix Spotify office365 YouTube Hulu Surge 等音乐影视：https://t.me/hezu1
-品云合租：https://t.me/PinYunHeZu
-奈飞小铺：https://t.me/joinchat/V2Qxg-u4XncM3F9m
-合租小车🚗: https://t.me/TogetherHub
-拼车小组：https://t.me/PinCheGroup
-Ben先生的闲聊群：https://t.me/Ben_zahuopu
-netflix spotify hulu 账号交流: https://t.me/zxc1017yyfx
-NETFLIX 极乐世界： https: //t.me/duxiangNF
-Netflix/Spo/Hulu/HBO 低价体验车：https://t.me/FreetrialStore
-Ben先生的杂货铺：https://t.me/joinchat/K1vTsB​​MebnPn7mLwR6KGmA
-免费试用商店：https://t.me/FreetrialStore
-EhViewer・DEPRECATED・交流群：https://t.me/ehviewer
-聊股论金：https://t.me/CNFinance
-三家村：https://t.me/platoer
-谷歌、微软件云盘讨论群： https: //t.me/google_win
-黑洞资源交流群：https://t.me/debated
-好棒羊毛福利站自助查：https://t.me/dajiajia
-优质淘宝京东隐藏优惠券福利推荐：https://t.me/taobaojuan
-频道🏆资源福利分享 Chat: https://t.me/freemorebestchat
-威盛官方群： https: //t.me/viatg
-Magisk 中文讨论群：https://t.me/magiskCNshare
-LetITFly 群：https://t.me/joinchat/DnJ2K0An6XhI3N-5EK2FtA
-Spotify 瘾君子组：https://t.me/spotifyaddict
-Spotify 使用者：https://t.me/joinchat/DlW6BkAiT7ReIIADtANzYw
-苹果音乐：https://t.me/amthings
-远鉴字幕组官方交流群：https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg
-奈菲影视官方交流群：https://t.me/joinchat/KmUaGRMWdO29JVd3wcCHCg
-峰哥分享技术交流超级群：https://t.me/fengsharegroup
-TG技术党： https: //t.me/MRHXPJ
-真的是药丸：https://t.me/joinchat/L5ipUhYff4tk98bOrdqutQ
-电报中文： https: //t.me/Chat_CN
-网络中文圈：https://t.me/CN_Internet
-Bitcron 中文圈: https://t.me/bitcron
-小点播放器+m3u8直播源交流群：https://t.me/conchplayer
-SaoDaye - TG总群: https://t.me/saodaye
-扫大爷-TG飙车：https://t.me/yiqisao
-Pi&N1 玩家交流群，专业： https: //t.me/PIN1Group
-小声读书：https://t.me/what_youread
-ZBook，精品电子书：https://t.me/ziyuanfengxiang59
-ReadFine 交流总群: https://t.me/ReadfineChat
-读书分享：https://t.me/dushufenxiang_chat
-zread 读书会：https://t.me/zread
-i-Book.in 讨论组：https://t.me/i_book_in
-中国开发者：https://t.me/ChineseDevelopers
-BAT大家庭：https://t.me/china_net_group
-三人行中文群（工作生活学习交流平台）：https://t.me/three001
-996.ICU: https://t.me/anti996
-潮流防区/r/China_irl 官方群: https://t.me/China_irl
-潮流防区666游戏厅：https://t.me/China_irl_Games
-小米视频反馈群：https://t.me/MiVideoFeedback
-Telegramd 中文技术交流群：https://t.me/cntelegramd
-主机贴士：https://t.me/BWH1NET
-二进制 /sudo: https://t.me/huochesiji
-Google Voice 讨论组：https://t.me/swatpc1
-Ssrconnect： https: //t.me/ssrconnect
-专业 Linux / 运维 / 虚拟化讨论: https://t.me/professionallinux
-酸奶ssr2.0: https://t.me/ssruSSR
-浪漫生活群：https://t.me/llmsh
-软件源 TG: https://t.me/appcgntg
-趣·享：https://t.me/peekfun
-免费DDOS群：https://t.me/joinchat/Ma3VglCDtwnOGNPbKAl5Mw
-TYPCN群：https://t.me/joinchat/BoV2zj_WY5j8BxC98_6MCQ
-今天的水泥与钢（建筑群）：https://t.me/jintiandetongyugang
-苹果旧版交流：https://t.me/xinapp
-特拉斯特斯拉交流群：https://t.me/teslafast
-网络技术交流–AE: https://t.me/joinchat/KvkGoxAJywGVPq7LVUAXug
-亚马逊海淘购物交流群：https://t.me/firstAmazon
-苹果男孩：https://t.me/joinchat/BJpk_BFL2deF7841fGKEbQ
-谷歌套件交流群：http://t.me/googlesuite
-libra 区块链大中华交流: https://t.me/joinchat/Lfx59xaZjZfOm8BEJXgSGQ
-夸吧·夸夸群：https://t.me/kuaba
-谷歌云端GCP交流群：http://t.me/Google_CloudPlatform
-Cloudflare 在中国：https://t.me/CN_Cloudflare
-月光博客IT技术交流群：https://t.me/yueguangqun
-Pixel 3 小窝：https://t.me/Pixel3House
-戒赌吧 2.0: https://t.me/joinchat/FHxB4lkIZ3IjoCt3_Yh3aw
-Tbo粉丝群：https://t.me/TboJiangGroup
-GDrive、INFUSE、SYNOLOGY、PLEX：https://t.me/infusetv
-我们的 Bittorrents 俱乐部：https://t.me/joinchat/IST_uFF7P-u5oecKl3uvFg
-戒赌吧2.0：https://t.me/joinchat/L6o3d1kIZ3JCcg2ki2SGsg
-群查导航：https://t.me/Groups_cn
-日本语学习日语学习：https://t.me/joinchat/BGDV_Qcq7MTcpiFkB2n7Fw
-ZUOLUOTV 专业交流群：https://t.me/zuoluotv
-不知名科技吐槽：https://t.me/ApexIdeaTech
-凯文自留地：https://t.me/mrkevinh
-主机百科：https://t.me/zhujiwiki
-阿飞云网： https: //t.me/pingcat
-91yun.co 大海航靠舵手: https://t.me/im91yun
-Leonn： https: //t.me/zhenggui
-古博 - VPS 仓交流群 / VPS 推荐实测: https://t.me/guboorg
-如有乐享：https://t.me/joinchat/EqJkBQ4FsPUuWoN8HsOjNg
-技术博客技术博客：https://t.me/Technical_Blog
-GigsGigsCloud.com 意见交流：http://t.me/gigsgigscloudgroup
-TenVM/ToSpeed 交流群：https://t.me/tenvmgroup
-微基主机讨论组 - 原 50KVM/50VZ: https://t.me/network50_chat
-Nathosts 主机交流群: https://t.me/nathosts
-HKServerSolution 交流与建议：https://t.me/hkserversolution
-爱听歌交流群：https://t.me/musictools666
-利器社群在TG上的分享：http://t.me/fun_makers
-圆角水群：https://t.me/UoVzCloud
-中文独立博客：https://t.me/indieBlogs
-Telegram 蜥蜴总群：https://t.me/joinchat/EgReJ0BeLkTPKtZLJ1HipA
-黑苹果 osx86 项目中文讨论 / Hackintosh CHN Discussion: https://t.me/osx86zh
-Chromebook CN: https://t.me/chromebook_cn
-C语言中文交流：https://t.me/Clanguagezh
-C++ 中文交流: https://t.me/cpluspluszh
-CSS讨论区：https://t.me/csstw
-Haskell 中文交流: https://t.me/haskellzh
-JavaScript 中文交流：https://t.me/javascriptzh
-Julia 编程语言交流：https://t.me/julialangzh
-Perl 中文交流: https://t.me/perlzh
-蟒蛇：https: //t.me/Python
-Python中文社区：https://t.me/PyChina
-Python中文交流：https://t.me/pythonzh
-前往：https: //t.me/GolangCN
-R语言交流：https://t.me/rprojectzh
-Scala中文群：https://t.me/scala_zh
-TypeScript 中文交流：https://t.me/typescriptzh
-Kali / BlackArch Linux 中文交流: https://t.me/hackerzh
-CentOS 中文: https://t.me/centoszh
-Ubuntu 中文: https://t.me/ubuntuzh
-SublimeText 用户组：https://t.me/sublimecn
-Java/Android 开发交流：https://t.me/java_android_dev
-大数据杂谈：https://t.me/bigdatazh
-前端中文技术交流：https://t.me/frontend_talk
-iOS Dev CN: https://t.me/iOS_Dev_CN
-Stone Server 中文交流: https://t.me/stone_server
-Hexo 博客交流：https://t.me/hexozh
-Hugo 博客交流: https://t.me/hugoblog
-Dat 中文交流: https://t.me/datzh
-ZeroNet 中文交流: https://t.me/zeronetzh
-Google Play交流：https://t.me/googleplay_cn
-体育爱好者/足球/篮球/NBA/CBA交流：https://t.me/tiyu365
-壁纸墙纸：https://t.me/G_Wallpapers
-SM.MS 图床粉丝群：https://t.me/smms_images
-博物馆爱好者博物馆爱好者：https://t.me/PakMyotKuanh
-ios 黑科技交流群: https://t.me/ioshkj007
-HN中文社区：https://t.me/hn_china
-树莓派：https://t.me/shumeipai
-中英文语言学习：https://t.me/LinguisticAcademy
-TechCrunch 中文讨论组：https://t.me/tcchinese
-LotteryHelperBot 抽奖群：https://t.me/Lottery_Group
-🀄️Fedora 中文用户组: https://t.me/fedorazh
-iOS 软件学习交流：https://t.me/ChujiuGGG
-家庭网络资源共享群：https://t.me/homenet6
-UoL BSc 讨论组：https://t.me/uolbsc
-「韵味科技」TG技术交流群： https: //t.me/ywadmin
-PS4：https://t.me/ps4cn2
-Nintendo Switch 娱乐 - 动森: https://t.me/nintendoswitch_cn
-财经幽灵电报群：https://t.me/financial_ghostGroup
-Tg云音乐：https://t.me/Tgsongs
-中文音乐讨论群：https://t.me/joinchat/AyylyVG1Gf-53dJgnjjq9A
-智能家居交流群：https://t.me/homeassiant666
-握手中文社区：https://t.me/handshake_cn
-第二场：https://t.me/dearlive
-科技聚会：https://t.me/pixelcn
-适用于 Android 的 Surge：https ://t.me/SurgeforAndroid
-翼起乐：https://t.me/YiQiLe
-PanoanDrive（离线下载自动转存 Google Drive）：https ://t.me/PanoanDriveBasic
-数字移民讨论群：https://t.me/shuziyimin_forum
-Anytype 社区： https: //t.me/anytype
-GraphQL 中国：https://t.me/graphql_china
-今日热榜：https://t.me/joinchat/IL6n4w9xiRMvHaU1YpVFog
-品品品葱葱葱葱：https ://t.me/pcfanzei
-茶馆Teahouse：https://t.me/aTeaHouse
-柯基犬的日常 - 吹水群: https://t.me/UntitledGroup
-希饭学习&技术&分享：https://t.me/idcmoe
-荔枝木上荔枝果，荔枝木下你和我: https://t.me/lychee_discuss>
-西西书屋精品电子书：https://t.me/xixishuwu
-读者·争鸣：https://t.me/duzhe
-今天你动森了吗：https ://t.me/AnimalCrossingX
-生活与知识： https: //t.me/LifeAndKnowledge
-[CN]Flutter开发：https://t.me/FlutterCN
-Infuse 官方中文群: https://t.me/infusepro6
-台湾苹果同好交流群：https://t.me/TaiwanAppleFans
-日本旅游同好交流群： https: //t.me/JP_Travel
-高清影音数码折腾群：https://t.me/TalkUHD
-Bot开发者交流群：https://t.me/bot_dev_group
-VULTR 用户交流群： https: //t.me/VultrChat
-TGX - 社群: https://t.me/tgx_group
-XDA-一般：https://t.me/joinchat/GobKO1HujyceuQ_ijPmmFw
-XDA-Chromebooks：https://t.me/joinchat/GobKO0oLNMy0AVuHsL4ApQ
-XDA-谷歌：https://t.me/joinchat/GobKO059P187L04_lROAjA
-XDA-三星：https://t.me/joinchat/GobKO1MO9T7g7iY2y1-oLg
-XDA-OnePlus：https://t.me/joinchat/GobKO0WAM7JznxHXgKkCiw
-XDA-华为：https://t.me/joinchat/GobKO0yVKYAHOOON_KuXIw
-XDA-Realme: https://t.me/joinchat/GobKO1b8S_BrnHRZ3N_Scw
-XDA-索尼：https://t.me/joinchat/GobKO0fZhvNzc__RcJuGzQ
-XDA-HTC：https://t.me/joinchat/GobKO0BtfvCQLqQ6SAqreg
-XDA-LG: https://t.me/joinchat/GobKO1HUnWgyZcjQ8iIkRA
-XDA-摩托罗拉：https://t.me/joinchat/GobKO0fPbFnKzIzUq8QD2A
-XDA-诺基亚：https://t.me/joinchat/GobKO08UpiE7HUWxr_yc2A
-XDA 实验室： https: //t.me/xda_feed
-微信阅读书分享交流：https://t.me/iWeRead
-密码全开朋友： https: //t.me/forcecoder
-互联网1号聊天室：https://t.me/chatroom11111
-FlyOS 官方群： https: //t.me/flyospro
-Red C Linux DEV.&COM.: https://t.me/redclinux
-多平台技术交流：https://t.me/alldesktop
-奈飞Pro - Netflix奈飞合租/拼车：https://t.me/naifei_pro
-吾爱奈飞交流群： https: //t.me/netflix_52naifeitop
-中文翻译机人反喷群： https: //t.me/fanyi_group
-各种云☁️交流群：http://t.me/Server699
-SaltyLeo 的博客讨论组：https://t.me/SaltyLeo_blog
-数字尾巴粉丝群: https://t.me/joinchat/GnoDABh4Ob-e5zKOOMe4bg
-CodingStartup 起码课：https://t.me/codingstartup
-OpenWrt 讨论 CTCGFW 的群组：https://t.me/ctcgfw_openwrt_discuss
-PLEX/EMBY交流群：https://t.me/bigdongdongmedia
-Alook视频解析收集分享：https://t.me/jsday
-anki 交流群: https://t.me/anki_app
-PayPal 交流群：https://t.me/paypal_us
-大佬装逼群：https://t.me/xddos11
-腾讯云☆阿里云🅥：https://t.me/TencentAliyun
-麻瓜宝用户群：https://t.me/mugglepay
-飞云码：https://t.me/HQBDaiGou
-85.60×53.98卡粉交流群：https://t.me/joinchat/R9tf4ze6nbXuiHd8
-Linmi 简日志: https://t.me/cmemo
-Clubhouse 中文 - 火种续火: https://t.me/tgclubhouse
-会所交流社区：https://t.me/clubhousecn
-会所邀请资格互助群：https://t.me/Clubhouse_Chinese
-会所中文：https://t.me/clubhouse_zh
-会所裂变群：https://t.me/joinchat/Rj-AnxJ4epyMJd4q
-iClubHouse: https://t.me/iClubHouse
-硬核英语/铁杆英语：https://t.me/hardcoreng
-咕咕空间交流群：https://t.me/gugukongjian
-阿里云盘：https://t.me/aliyundrive_backup
-学习捷径：https://t.me/officelearner
-Mac 视频播放器、显示设备与技术、影视等讨论群：https://t.me/VideoPlayerGroup
-8度科技：https://t.me/abc999222
-Windows/Mac/Linux 交流群：https://t.me/zhucaidan
-荔枝讨论实验群：https://t.me/lychee_discuss
-叶清风的小店的讨论组：https://t.me/OwO_G
-Gakki 小店：https://t.me/googlevoiceclub
-期货与期货衍生品：https ://t.me/CNderivatives
-特拉斯中文交流群：https://t.me/teslazh
-罗叔叔老罗叔叔：https://t.me/uncleluogroup
-Nathosts 主机交流群: https://t.me/nathosts
-键盘交流群：https://t.me/keyboard_cn
-闲蛋面板🥚交流群：https://t.me/xdzzmb
-加密货币爱好者：https://t.me/twittercryptofans
+
+* DEW日本语グループ：https://t.me/dew_jp
+
+* DEW 공식한국어 그룹: https://t.me/dew_kr
+
+* Python 数据社群，数据分析大数据相关知识交流：https://t.me/datapy
+ 
+* TechCrunch 中文版讨论组：https://t.me/techcrunchcngroup
+
+* 内含段子：https://t.me/duanzige
+ 
+* TeFuir自渡：https://t.me/TeFuirZIDu
+
+* Dribbble 设计交流: https://t.me/dribbbletalk
+
+* 安卓广场： https: //t.me/AndroidPlaza
+
+* [ZH/EN] 摄影：https://t.me/cnphotog
+
+* 加速吧小宝（koolshare merlin固件）：https://t.me/xbchat
+
+* 软路由综合交流群：https://t.me/Balancer66
+
+* 软路由交流群: https://t.me/ruanlu
+
+* eSir 游乐场：https://t.me/joinchat/JjxmyRZZXJWb74I-sCrryA
+
+* eSir Playground 固件 & 插件交流群: https://t.me/joinchat/JjxmyUrN3utQKXt_5LD54g
+
+* 机场联盟 - Linux&vps@SSpanel: http://t.me/supermarket666
+
+* 阿里云交流群：https://t.me/Balancer985
+
+* 微软件云 (Azure) 交流群：https://t.me/Balancer211
+
+* 谷歌云 (Gcp) 交流群：https://t.me/Balancer166
+
+* 博客搭建交流群：https://t.me/Balancer863
+
+* Tasker中文交流群：https://t.me/taskercn
+
+* 简信用户群：https://t.me/mailtime
+ 
+* Rime&iRime 交流群: https://t.me/joinchat/F2HuOQpBU2NjUrg8ybQMDg
+
+* Vim 用户交流群：http://t.me/vimhub
+
+* iOS越狱讨论群：https://t.me/iOS_Jailbreak
+
+* iOS越狱交流群：https://t.me/iOS_jailbreaking
+
+* 越狱聊天：https://t.me/joinchat/AAAAAD161xTKVMuu-bOaxg
+
+* 电报哈斯组： https: //t.me/telehathgroup
+
+* Vps 交流: https://t.me/talkvps
+
+* 自由世界之声：https://t.me/TetgramC
+
+* 今天我地唔倾身倾人生：https://t.me/telegrc
+
+* Product Hunt 分享讨论：https://t.me/joinchat/CreGnBZN4DGqRb4HiBkm9g
+
+* wikipedia-zh中文维基百科聊天室：https ://t.me/wikipedia_zh_n
+
+* 老维基百科-zh: https://t.me/wikipedia_zh
+
+* 维基百科-zh-帮助：https://t.me/wikipedia_zh_help
+
+* 维基百科-zh-游戏：https://t.me/wikipedia_zh_game
+
+* wikipedia-zh-science&technology：https://t.me/wikipedia_zh_science_and_tech
+ 
+* 维基百科-zh-计算机科学：https://t.me/wikipedia_zh_cs
+
+* wikipedia-zh-humanities&SoSci：https://t.me/wikipedia_zh_humanities
+
+* wikipedia-zh-jurisprudence：https://t.me/wikipedia_zh_jurisprudence
+
+* wikipedia-zh-entertainment&art: https://t.me/wikipedia_zh_entmt_and_art
+
+* 维基百科-zh-acg：https://t.me/wikipedia_zh_acg_n
+
+* 维基百科-zh-物理：https://t.me/wikipedia_zh_physics
+
+* wikipedia-zh-BioMed：https://t.me/Wikipedia_zh_bio_and_med
+
+* 维基百科-zh-语言： https: //t.me/wikipedia_zh_lang
+
+* 维基百科-zh-翻译：https://t.me/wikipedia_zh_translation
+
+* wikipedia-zh-food&drink：https://t.me/wikipedia_zh_food_and_drink
+
+* 维基百科-zh-体育：https://t.me/wikipedia_zh_sports
+
+* wikipedia-zh-library&museum： https: //t.me/wikipedia_zh_lib
+
+* wikipedia-zh-Geo&Transpt：https://t.me/wikipedia_zh_geo_and_transpt
+
+* 维基百科-zh-LGBT+： https: //t.me/wikipedia_zh_LGBT
+
+* wikipedia-zh-appeal&meta: https://t.me/wikipedia_zh_appeal_n_meta
+
+* 维基百科-zh-DC: https://t.me/wikipedia_zh_DC
+
+* wikipedia-zh-ingress：https://t.me/wikipedia_zh_ingress
+
+* 台大维基社：https://t.me/ntuwpc
+ 
+* 高雄维基人高雄维基媒体社区：https://t.me/wikikaohsiung
+
+* 维基学生会：https://t.me/wikipedia_zh_wsu
+
+* 边缘人小组｜边缘人小组Marginalized Persons' Club: https://t.me/marginalizedpersonsclub
+
+* 《维基人》读者交流群： https: //t.me/the_Wikipedian_group
+
+* wikipedia-zh 巡逻：https://t.me/wikipedia_zh_patrol
+
+* 维基百科-zh-DYK： https: //t.me/wikipedia_zh_dyk
+ 
+* zh 维基公告： https: //t.me/zhwiki_bulletin
+ 
+* 中文维基《求闻》-秋文中文维基百科：https://t.me/Qiuwen
+
+* 维基媒体-commons-zh：​​https://t.me/wikimedia_commons_zh
+
+* wikibooks-zh: https://t.me/wikibooks_zh
+
+* wikisource-zh: https://t.me/wikisource_zh
+
+* wikiversity-zh： https: //t.me/wikiversity_zh
+
+* wikinews-zh: https://t.me/wikinews_zh_n
+ 
+* 维基导游-zh: https://t.me/wikivoyage_zh
+
+* 维基百科-lzh: https://t.me/wikipedia_lzh
+
+* lzh维基公告：https://t.me/lzhwiki_bulletin
+ 
+* WamLzh: https://t.me/wamlzh
+
+* cvn-zho：https://t.me/cvn_zho
+ 
+* cvn-zh-sw： https: //t.me/cvn_zh_sw
+
+* 维基百科-mnc：https://t.me/wikipedia_mnc
+
+* 维基百科-yue: https://t.me/wikipedia_yue
+
+* 维基百科-cdo： https: //t.me/wikipedia_cdo
+
+* cdo 维基公告：https://t.me/cdowiki_bulletin
+
+* RetroShare： https: //t.me/cnretroshare
+
+* MoeUnion: https://t.me/MoeUnion
+
+* Vediotalk： https: //t.me/VedioTalkGroup
+
+* 利器👨🏻‍💻👩‍💻 🧤: https://t.me/fun_makers
+
+* 开发者中文圈：https://t.me/coderzh
+
+* 酷安闲聊群：https://t.me/coolapkxianliao
+
+* 酷安：https://t.me/cool_apk
+
+* Licenses Group 合租美剧讨论薅羊毛：https://t.me/Licensess
+
+* [合租] Netflix Spotify office365 YouTube Hulu Surge 等音乐影视：https://t.me/hezu1
+
+* 品云合租：https://t.me/PinYunHeZu
+
+* 奈飞小铺：https://t.me/joinchat/V2Qxg-u4XncM3F9m
+
+* 合租小车🚗: https://t.me/TogetherHub
+
+* 拼车小组：https://t.me/PinCheGroup
+
+* Ben先生的闲聊群：https://t.me/Ben_zahuopu
+
+* netflix spotify hulu 账号交流: https://t.me/zxc1017yyfx
+
+* NETFLIX 极乐世界： https: //t.me/duxiangNF
+
+* Netflix/Spo/Hulu/HBO 低价体验车：https://t.me/FreetrialStore
+
+* Ben先生的杂货铺：https://t.me/joinchat/K1vTsB​​MebnPn7mLwR6KGmA
+
+* 免费试用商店：https://t.me/FreetrialStore
+
+* EhViewer・DEPRECATED・交流群：https://t.me/ehviewer
+ 
+* 聊股论金：https://t.me/CNFinance
+ 
+* 三家村：https://t.me/platoer
+
+* 谷歌、微软件云盘讨论群： https: //t.me/google_win
+
+* 黑洞资源交流群：https://t.me/debated
+
+* 好棒羊毛福利站自助查：https://t.me/dajiajia
+
+* 优质淘宝京东隐藏优惠券福利推荐：https://t.me/taobaojuan
+
+* 频道🏆资源福利分享 Chat: https://t.me/freemorebestchat
+
+* 威盛官方群： https: //t.me/viatg
+
+* Magisk 中文讨论群：https://t.me/magiskCNshare
+
+* LetITFly 群：https://t.me/joinchat/DnJ2K0An6XhI3N-5EK2FtA
+
+* Spotify 瘾君子组：https://t.me/spotifyaddict
+
+* Spotify 使用者：https://t.me/joinchat/DlW6BkAiT7ReIIADtANzYw
+
+* 苹果音乐：https://t.me/amthings
+
+* 远鉴字幕组官方交流群：https://t.me/joinchat/KmUaGRU5OgWsuv27BABIDg
+ 
+* 奈菲影视官方交流群：https://t.me/joinchat/KmUaGRMWdO29JVd3wcCHCg
+ 
+* 峰哥分享技术交流超级群：https://t.me/fengsharegroup
+
+* TG技术党： https: //t.me/MRHXPJ
+ 
+* 真的是药丸：https://t.me/joinchat/L5ipUhYff4tk98bOrdqutQ
+ 
+* 电报中文： https: //t.me/Chat_CN
+ 
+* 网络中文圈：https://t.me/CN_Internet
+* Bitcron 中文圈: https://t.me/bitcron
+
+* 小点播放器+m3u8直播源交流群：https://t.me/conchplayer
+
+* SaoDaye - TG总群: https://t.me/saodaye
+ 
+* 扫大爷-TG飙车：https://t.me/yiqisao
+
+* Pi&N1 玩家交流群，专业： https: //t.me/PIN1Group
+ 
+* 小声读书：https://t.me/what_youread
+
+* ZBook，精品电子书：https://t.me/ziyuanfengxiang59
+ 
+* ReadFine 交流总群: https://t.me/ReadfineChat
+
+* 读书分享：https://t.me/dushufenxiang_chat
+
+* zread 读书会：https://t.me/zread
+
+* i-Book.in 讨论组：https://t.me/i_book_in
+
+* 中国开发者：https://t.me/ChineseDevelopers
+
+* BAT大家庭：https://t.me/china_net_group
+
+* 三人行中文群（工作生活学习交流平台）：https://t.me/three001
+
+* 996.ICU: https://t.me/anti996
+ 
+* 潮流防区/r/China_irl 官方群: https://t.me/China_irl
+
+* 潮流防区666游戏厅：https://t.me/China_irl_Games
+
+* 小米视频反馈群：https://t.me/MiVideoFeedback
+ 
+* Telegramd 中文技术交流群：https://t.me/cntelegramd
+
+* 主机贴士：https://t.me/BWH1NET
+ 
+* 二进制 /sudo: https://t.me/huochesiji
+
+* Google Voice 讨论组：https://t.me/swatpc1
+
+* Ssrconnect： https: //t.me/ssrconnect
+
+* 专业 Linux / 运维 / 虚拟化讨论: https://t.me/professionallinux
+
+* 酸奶ssr2.0: https://t.me/ssruSSR
+
+* 浪漫生活群：https://t.me/llmsh
+
+* 软件源 TG: https://t.me/appcgntg
+
+* 趣·享：https://t.me/peekfun
+
+* 免费DDOS群：https://t.me/joinchat/Ma3VglCDtwnOGNPbKAl5Mw
+
+* TYPCN群：https://t.me/joinchat/BoV2zj_WY5j8BxC98_6MCQ
+
+* 今天的水泥与钢（建筑群）：https://t.me/jintiandetongyugang
+
+* 苹果旧版交流：https://t.me/xinapp
+
+* 特拉斯特斯拉交流群：https://t.me/teslafast
+
+* 网络技术交流–AE: https://t.me/joinchat/KvkGoxAJywGVPq7LVUAXug
+
+* 亚马逊海淘购物交流群：https://t.me/firstAmazon
+
+* 苹果男孩：https://t.me/joinchat/BJpk_BFL2deF7841fGKEbQ
+
+* 谷歌套件交流群：http://t.me/googlesuite
+
+* libra 区块链大中华交流: https://t.me/joinchat/Lfx59xaZjZfOm8BEJXgSGQ
+
+* 夸吧·夸夸群：https://t.me/kuaba
+
+* 谷歌云端GCP交流群：http://t.me/Google_CloudPlatform
+
+* Cloudflare 在中国：https://t.me/CN_Cloudflare
+
+* 月光博客IT技术交流群：https://t.me/yueguangqun
+
+* Pixel 3 小窝：https://t.me/Pixel3House
+
+* 戒赌吧 2.0: https://t.me/joinchat/FHxB4lkIZ3IjoCt3_Yh3aw
+
+* Tbo粉丝群：https://t.me/TboJiangGroup
+
+* GDrive、INFUSE、SYNOLOGY、PLEX：https://t.me/infusetv
+
+* 我们的 Bittorrents 俱乐部：https://t.me/joinchat/IST_uFF7P-u5oecKl3uvFg
+
+* 戒赌吧2.0：https://t.me/joinchat/L6o3d1kIZ3JCcg2ki2SGsg
+
+* 群查导航：https://t.me/Groups_cn
+
+* 日本语学习日语学习：https://t.me/joinchat/BGDV_Qcq7MTcpiFkB2n7Fw
+
+* ZUOLUOTV 专业交流群：https://t.me/zuoluotv
+
+* 不知名科技吐槽：https://t.me/ApexIdeaTech
+
+* 凯文自留地：https://t.me/mrkevinh
+
+* 主机百科：https://t.me/zhujiwiki
+
+* 阿飞云网： https: //t.me/pingcat
+
+* 91yun.co 大海航靠舵手: https://t.me/im91yun
+
+* Leonn： https: //t.me/zhenggui
+
+* 古博 - VPS 仓交流群 / VPS 推荐实测: https://t.me/guboorg
+
+* 如有乐享：https://t.me/joinchat/EqJkBQ4FsPUuWoN8HsOjNg
+
+* 技术博客技术博客：https://t.me/Technical_Blog
+
+* GigsGigsCloud.com 意见交流：http://t.me/gigsgigscloudgroup
+
+* TenVM/ToSpeed 交流群：https://t.me/tenvmgroup
+
+* 微基主机讨论组 - 原 50KVM/50VZ: https://t.me/network50_chat
+
+* Nathosts 主机交流群: https://t.me/nathosts
+
+* HKServerSolution 交流与建议：https://t.me/hkserversolution
+
+* 爱听歌交流群：https://t.me/musictools666
+
+* 利器社群在TG上的分享：http://t.me/fun_makers
+
+* 圆角水群：https://t.me/UoVzCloud
+
+* 中文独立博客：https://t.me/indieBlogs
+
+* Telegram 蜥蜴总群：https://t.me/joinchat/EgReJ0BeLkTPKtZLJ1HipA
+
+* 黑苹果 osx86 项目中文讨论 / Hackintosh CHN Discussion: https://t.me/osx86zh
+
+* Chromebook CN: https://t.me/chromebook_cn
+
+* C语言中文交流：https://t.me/Clanguagezh
+
+* C++ 中文交流: https://t.me/cpluspluszh
+ 
+* CSS讨论区：https://t.me/csstw
+
+* Haskell 中文交流: https://t.me/haskellzh
+
+* JavaScript 中文交流：https://t.me/javascriptzh
+
+* Julia 编程语言交流：https://t.me/julialangzh
+
+* Perl 中文交流: https://t.me/perlzh
+
+* 蟒蛇：https: //t.me/Python
+
+* Python中文社区：https://t.me/PyChina
+
+* Python中文交流：https://t.me/pythonzh
+
+* 前往：https: //t.me/GolangCN
+
+* R语言交流：https://t.me/rprojectzh
+
+* Scala中文群：https://t.me/scala_zh
+
+* TypeScript 中文交流：https://t.me/typescriptzh
+
+* Kali / BlackArch Linux 中文交流: https://t.me/hackerzh
+
+* CentOS 中文: https://t.me/centoszh
+
+* Ubuntu 中文: https://t.me/ubuntuzh
+
+* SublimeText 用户组：https://t.me/sublimecn
+
+* Java/Android 开发交流：https://t.me/java_android_dev
+
+* 大数据杂谈：https://t.me/bigdatazh
+
+* 前端中文技术交流：https://t.me/frontend_talk
+
+* iOS Dev CN: https://t.me/iOS_Dev_CN
+
+* Stone Server 中文交流: https://t.me/stone_server
+
+* Hexo 博客交流：https://t.me/hexozh
+
+* Hugo 博客交流: https://t.me/hugoblog
+
+* Dat 中文交流: https://t.me/datzh
+
+* ZeroNet 中文交流: https://t.me/zeronetzh
+
+* Google Play交流：https://t.me/googleplay_cn
+
+* 体育爱好者/足球/篮球/NBA/CBA交流：https://t.me/tiyu365
+
+* 壁纸墙纸：https://t.me/G_Wallpapers
+
+* SM.MS 图床粉丝群：https://t.me/smms_images
+
+* 博物馆爱好者博物馆爱好者：https://t.me/PakMyotKuanh
+
+* ios 黑科技交流群: https://t.me/ioshkj007
+
+* HN中文社区：https://t.me/hn_china
+
+* 树莓派：https://t.me/shumeipai
+
+* 中英文语言学习：https://t.me/LinguisticAcademy
+
+* TechCrunch 中文讨论组：https://t.me/tcchinese
+
+* LotteryHelperBot 抽奖群：https://t.me/Lottery_Group
+
+* 🀄️Fedora 中文用户组: https://t.me/fedorazh
+
+* iOS 软件学习交流：https://t.me/ChujiuGGG
+ 
+* 家庭网络资源共享群：https://t.me/homenet6
+
+* UoL BSc 讨论组：https://t.me/uolbsc
+
+* 「韵味科技」TG技术交流群： https: //t.me/ywadmin
+
+* PS4：https://t.me/ps4cn2
+
+* Nintendo Switch 娱乐 - 动森: https://t.me/nintendoswitch_cn
+
+* 财经幽灵电报群：https://t.me/financial_ghostGroup
+
+* Tg云音乐：https://t.me/Tgsongs
+
+* 中文音乐讨论群：https://t.me/joinchat/AyylyVG1Gf-53dJgnjjq9A
+
+* 智能家居交流群：https://t.me/homeassiant666
+
+* 握手中文社区：https://t.me/handshake_cn
+
+* 第二场：https://t.me/dearlive
+
+* 科技聚会：https://t.me/pixelcn
+
+* 适用于 Android 的 Surge：https ://t.me/SurgeforAndroid
+
+* 翼起乐：https://t.me/YiQiLe
+
+* PanoanDrive（离线下载自动转存 Google Drive）：https ://t.me/PanoanDriveBasic
+
+* 数字移民讨论群：https://t.me/shuziyimin_forum
+
+* Anytype 社区： https: //t.me/anytype
+
+* GraphQL 中国：https://t.me/graphql_china
+ 
+* 今日热榜：https://t.me/joinchat/IL6n4w9xiRMvHaU1YpVFog
+
+* 品品品葱葱葱葱：https ://t.me/pcfanzei
+
+* 茶馆Teahouse：https://t.me/aTeaHouse
+
+* 柯基犬的日常 - 吹水群: https://t.me/UntitledGroup
+ 
+* 希饭学习&技术&分享：https://t.me/idcmoe
+
+* 荔枝木上荔枝果，荔枝木下你和我: https://t.me/lychee_discuss>
+ 
+* 西西书屋精品电子书：https://t.me/xixishuwu
+
+* 读者·争鸣：https://t.me/duzhe
+
+* 今天你动森了吗：https ://t.me/AnimalCrossingX
+
+* 生活与知识： https: //t.me/LifeAndKnowledge
+
+* [CN]Flutter开发：https://t.me/FlutterCN
+
+* Infuse 官方中文群: https://t.me/infusepro6
+
+* 台湾苹果同好交流群：https://t.me/TaiwanAppleFans
+
+* 日本旅游同好交流群： https: //t.me/JP_Travel
+
+* 高清影音数码折腾群：https://t.me/TalkUHD
+
+* Bot开发者交流群：https://t.me/bot_dev_group
+
+* VULTR 用户交流群： https: //t.me/VultrChat
+
+* TGX - 社群: https://t.me/tgx_group
+ 
+* XDA-一般：https://t.me/joinchat/GobKO1HujyceuQ_ijPmmFw
+
+* XDA-Chromebooks：https://t.me/joinchat/GobKO0oLNMy0AVuHsL4ApQ
+
+* XDA-谷歌：https://t.me/joinchat/GobKO059P187L04_lROAjA
+
+* XDA-三星：https://t.me/joinchat/GobKO1MO9T7g7iY2y1-oLg
+
+* XDA-OnePlus：https://t.me/joinchat/GobKO0WAM7JznxHXgKkCiw
+
+* XDA-华为：https://t.me/joinchat/GobKO0yVKYAHOOON_KuXIw
+
+* XDA-Realme: https://t.me/joinchat/GobKO1b8S_BrnHRZ3N_Scw
+
+* XDA-索尼：https://t.me/joinchat/GobKO0fZhvNzc__RcJuGzQ
+
+* XDA-HTC：https://t.me/joinchat/GobKO0BtfvCQLqQ6SAqreg
+
+* XDA-LG: https://t.me/joinchat/GobKO1HUnWgyZcjQ8iIkRA
+
+* XDA-摩托罗拉：https://t.me/joinchat/GobKO0fPbFnKzIzUq8QD2A
+
+* XDA-诺基亚：https://t.me/joinchat/GobKO08UpiE7HUWxr_yc2A
+
+* XDA 实验室： https: //t.me/xda_feed
+
+* 微信阅读书分享交流：https://t.me/iWeRead
+
+* 密码全开朋友： https: //t.me/forcecoder
+
+* 互联网1号聊天室：https://t.me/chatroom11111
+
+* FlyOS 官方群： https: //t.me/flyospro
+
+* Red C Linux DEV.&COM.: https://t.me/redclinux
+
+* 多平台技术交流：https://t.me/alldesktop
+
+* 奈飞Pro - Netflix奈飞合租/拼车：https://t.me/naifei_pro
+
+* 吾爱奈飞交流群： https: //t.me/netflix_52naifeitop
+
+* 中文翻译机人反喷群： https: //t.me/fanyi_group
+
+* 各种云☁️交流群：http://t.me/Server699
+
+* SaltyLeo 的博客讨论组：https://t.me/SaltyLeo_blog
+
+* 数字尾巴粉丝群: https://t.me/joinchat/GnoDABh4Ob-e5zKOOMe4bg
+
+* CodingStartup 起码课：https://t.me/codingstartup
+
+* OpenWrt 讨论 CTCGFW 的群组：https://t.me/ctcgfw_openwrt_discuss
+
+* PLEX/EMBY交流群：https://t.me/bigdongdongmedia
+
+* Alook视频解析收集分享：https://t.me/jsday
+
+* anki 交流群: https://t.me/anki_app
+
+* PayPal 交流群：https://t.me/paypal_us
+
+* 大佬装逼群：https://t.me/xddos11
+
+* 腾讯云☆阿里云🅥：https://t.me/TencentAliyun
+
+* 麻瓜宝用户群：https://t.me/mugglepay
+
+* 飞云码：https://t.me/HQBDaiGou
+
+* 85.60×53.98卡粉交流群：https://t.me/joinchat/R9tf4ze6nbXuiHd8
+
+* Linmi 简日志: https://t.me/cmemo
+
+* Clubhouse 中文 - 火种续火: https://t.me/tgclubhouse
+
+* 会所交流社区：https://t.me/clubhousecn
+
+* 会所邀请资格互助群：https://t.me/Clubhouse_Chinese
+
+* 会所中文：https://t.me/clubhouse_zh
+
+* 会所裂变群：https://t.me/joinchat/Rj-AnxJ4epyMJd4q
+
+* iClubHouse: https://t.me/iClubHouse
+
+* 硬核英语/铁杆英语：https://t.me/hardcoreng
+
+* 咕咕空间交流群：https://t.me/gugukongjian
+
+* 阿里云盘：https://t.me/aliyundrive_backup
+
+* 学习捷径：https://t.me/officelearner
+
+* Mac 视频播放器、显示设备与技术、影视等讨论群：https://t.me/VideoPlayerGroup
+
+* 8度科技：https://t.me/abc999222
+
+* Windows/Mac/Linux 交流群：https://t.me/zhucaidan
+
+* 荔枝讨论实验群：https://t.me/lychee_discuss
+
+* 叶清风的小店的讨论组：https://t.me/OwO_G
+
+* Gakki 小店：https://t.me/googlevoiceclub
+
+* 期货与期货衍生品：https ://t.me/CNderivatives
+
+* 特拉斯中文交流群：https://t.me/teslazh
+
+* 罗叔叔老罗叔叔：https://t.me/uncleluogroup
+
+* Nathosts 主机交流群: https://t.me/nathosts
+
+* 键盘交流群：https://t.me/keyboard_cn
+
+* 闲蛋面板🥚交流群：https://t.me/xdzzmb
+
+* 加密货币爱好者：https://t.me/twittercryptofans
+
 
 
 
