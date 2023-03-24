@@ -1815,28 +1815,6 @@
 
 	河南周口： [https: //t.me/zhoukou]()
 
-	新冠肺炎
-
-	#nCoV 主群（疫区疫情新闻/互助）：[https://t.me/joinchat/OElQrFZiBp5If1A90UCnsg]()
-
-	#nCoV武汉封城自由讨论区：[https://t.me/joinchat/OElQrFKWIz_B1qtkNwE7qA]()
-
-	#nCoV 英文讨论：[https://t.me/WuhanCorona]()
-
-	#nCoV 粤语 / HK / 繁体疫情：[https://t.me/joinchat/OElQrBQ_WvPb4juxJAJkgw]()
-
-	#nCoV 美国疫情讨论区：[https://t.me/US2019nCOV]()
-
-	武汉肺炎新型病毒传播群： [https: //t.me/zhaook]()
-
-	武汉肺炎疫情信息交流：[https://t.me/wuhangroup]()
-
-	武汉肺炎疫情交流讨论：[https://t.me/SARSnew]()
-
-	新冠肺炎 (COVID-19) 讨论群：[https://t.me/CoronavirusDiscuss]()
-
-	美国华人抗冠病毒群： [https: //t.me/FightSARI]()
-
 	其他
 
 	Coder Offtopic 中文群: https://t.me/coder_ot
