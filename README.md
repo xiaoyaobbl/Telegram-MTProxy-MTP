@@ -50,8 +50,6 @@
 
 	* 搬运瓦工 (BandwagonHost): https://t.me/BandwagonHostUsers
 
-	机场交流群：[https://t.me/rixCloud_User]()
-
 	浪涌交流： [https: //t.me/loveapps]()
 
 	浪涌专业版： [https: //t.me/SurgePro]()
