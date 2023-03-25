@@ -4,8 +4,8 @@
 	<li>白嫖社⑦https://t.me/seqing006&nbsp; &nbsp; &nbsp;</li>
 	<li>里番仙人https://t.me/lifanxianren&nbsp;</li>
 	<li>erosmedia爱神传媒交流群https://t.me/bpsfl&nbsp;</li>
-	<li>AV剧情MVhttps://t.me/iamuziri&nbsp;</li>
-	<li>白嫖社｜AVhttps://t.me/baipiaoshe06&nbsp;</li>
+	<li>AV剧情MV https://t.me/iamuziri&nbsp;</li>
+	<li>白嫖社｜AV https://t.me/baipiaoshe06&nbsp;</li>
 	<li>黑料社https://t.me/heiliaoshe1&nbsp;</li>
 	<li>白嫖社｜资源总社https://t.me/baipiaoshe01&nbsp;</li>
 	<li>白嫖社资源下载群https://t.me/wpzyqun&nbsp;</li>
